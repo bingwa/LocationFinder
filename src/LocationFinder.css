@@ -1,0 +1,32 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card {
+  border-radius: 15px;
+  background: linear-gradient(135deg, #ff00ff, #00ffff, #ff00ff);
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.input-group .form-control {
+  border-radius: 0;
+  border: 1px solid #ff00ff;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.input-group .btn {
+  border-radius: 0;
+  background-color: #ff00ff;
+  color: white;
+  border: none;
+}
+
+.map-container {
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
